@@ -1,0 +1,22 @@
+React :
+React is a free and open-source front-end JavaScript library 
+for building user interfaces based on UI components. It is 
+maintained by Facebook and a community of individual developers
+and companies. React can be used with a variety of JavaScript 
+libraries and frameworks, such as Angular, Backbone, and Ember.js.
+
+React Installation Command :
+npx create-react-app "app-name"
+
+going with react is for code security and reusablity and high security 
+for enterprise  applications 
+
+
+package.json -> dependices
+
+src :
+    app.js -> 
+    app.css -> 
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+important react syntax 
